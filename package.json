@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.2.0",
-    "@mdx-js/loader": "^1.5.5",
+    "@mdx-js/loader": "^2.0.0",
     "@next/mdx": "^8.1.0",
     "@rescript/react": "^0.10.3",
     "@ryyppy/rescript-promise": "2.1.0",
